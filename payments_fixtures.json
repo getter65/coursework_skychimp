@@ -1,0 +1,22 @@
+[
+  {
+    "model": "school.payment",
+    "fields": {
+      "user": 1,
+      "course": 1,
+      "amount": 50000,
+      "date": "2023-02-21",
+      "method_of_payment": "cash"
+    }
+  },
+  {
+    "model": "school.payment",
+    "fields": {
+      "user": 1,
+      "lesson": 3,
+      "amount": 5000,
+      "date": "2023-02-03",
+      "method_of_payment": "trans"
+    }
+  }
+]

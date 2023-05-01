@@ -1,0 +1,19 @@
+[{
+  "model": "users.user",
+  "fields": {
+    "password": "222222",
+    "last_login": null,
+    "is_superuser": true,
+    "first_name": "tr",
+    "last_name": "ue",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-02-18T21:21:06.355Z",
+    "email": "as@as.com",
+    "avatar": "",
+    "phone": "3456",
+    "city": "Barslona",
+    "groups": [],
+    "user_permissions": []
+  }
+}]
